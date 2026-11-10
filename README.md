@@ -108,11 +108,6 @@ Assets/
 - C#
 - TextMeshPro, Unity AI Navigation (NavMesh)
 
-## Anggota Tim
-
-| Nama | NIM | Peran |
-|---|---|---|
-| _isi nama_ | _isi NIM_ | _isi peran_ |
 
 ## Lisensi
 
